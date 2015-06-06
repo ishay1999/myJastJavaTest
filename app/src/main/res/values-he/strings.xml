@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">תוסיף עוד כוס קפה להזמנה</string>
+    <string name="decrease">תסיר כוס אחת</string>
+    <string name="hello_world">שלום עולם!</string>
+    <string name="order">הזמן!</string>
+    <string name="quantity">כמות</string>
+    <string name="reset">אפס כמות</string>
+    <string name="action_settings">הגדרות</string>
+    <string name="ordering">אתה עומד להזמין</string>
+    <string name="ordering_cups_price"> כוסות קפה במחיר של </string>
+    <string name="empty_order">מה אתה פסיכי? אי אפשר להזמין כלום</string>
+    <string name="resetted">משעמם לך? לחצת כבר איפוס יא חופר</string>
+    <string name="negativeCups">טוב מה נהיה?? אתה רוצה כבר למכור כוסות?</string>
+</resources>
